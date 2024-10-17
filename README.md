@@ -4,7 +4,13 @@
 
 Para **inicializar** un proyecto de *git*, usamos:
 
-'git init'
+`git init`
+
+```javascript
+function ejemplo(value) {
+   var interno = value;
+}
+```
 
 > Yo siempre tengo razón
 
