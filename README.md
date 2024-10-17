@@ -3,6 +3,7 @@
 ### 📍 Jason un tekken
 
 Para **inicializar** un proyecto de *git*, usamos:
+
 'git init'
 
 > Yo siempre tengo razón
